@@ -1,0 +1,8 @@
+echo "# gg713za" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/zayden713/gg713za.git
+git push -u origin master
+                git remote add origin https://github.com/zayden713/gg713za.git
+git push -u origin masteradb shell pm grant com.dp.logcatapp android.permission.READ_LOGS
